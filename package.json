@@ -1,0 +1,16 @@
+{
+  "name": "ncljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ncljs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ncl",
+    "js",
+    "ginga"
+  ],
+  "author": "Ruddá Beltrão",
+  "license": "MIT"
+}
