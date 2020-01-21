@@ -12,5 +12,8 @@
     "ginga"
   ],
   "author": "Ruddá Beltrão",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlbuilder": "^13.0.2"
+  }
 }
