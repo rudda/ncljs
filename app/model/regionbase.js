@@ -7,8 +7,7 @@
 // # Distributed under terms of the MIT license.
 
 const AbstractElement = require("./abstractelement"); 
-//TODO: const Region = require(".region");
-class Region {}
+const Region = require("./region");
 
 class RegionBase extends AbstractElement {
 
