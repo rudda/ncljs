@@ -84,11 +84,7 @@ class AbstractElement {
     }
 
     set(attribute, value) {
-        console.log("attribute:", attribute);
-        console.log("value:", value);
-        console.log("list:", this.__listAttributes);
         if (this.__listAttributes.hasOwnProperty(attribute)) {
-            console.log("passou")
             this.__listAttributes[attribute] = value;
         }
     }
