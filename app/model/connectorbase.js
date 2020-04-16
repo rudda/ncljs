@@ -7,8 +7,7 @@
 // # Distributed under terms of the MIT license.
 
 const AbstractElement = require("./abstractelement"); 
-//TODO: const CausalConnector = require("./causalconnector"); 
-class CausalConnector {}
+const CausalConnector = require("./causalconnector");
 
 class ConnectorBase extends AbstractElement {
 

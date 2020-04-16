@@ -6,14 +6,12 @@
 // #
 // # Distributed under terms of the MIT license.
 
-const AbstractElement = require("./abstractelement"); 
-const Port = require("./port"); 
-// const Property = require("./property"); 
-// const Media = require("./media"); 
-// const Link = require("./link"); 
+const AbstractElement = require("./abstractelement");
+const Port = require("./port");
+const Property = require("./property");
+const Media = require("./media");
+// const Link = require("./link");
 
-class Property {};
-class Media {};
 class Link {};
 
 class Body extends AbstractElement {
